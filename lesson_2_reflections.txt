@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+  when you intialize a repository you are creating a hidden file to track the changes in your database. You need to do that to give yourself a starting point on manipulating your data.
