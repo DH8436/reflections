@@ -6,4 +6,7 @@ How is the staging area different from the working directory and the repository?
 	The value is that it bunches files and is very specific in detailing the reason these files relate and are being committed.
 
 	Open with changes for 1st commit. added period. another period.
+
+How can you use the staging area to make sure you have one commit per logical change?
+Check you changes and double check the files included are part of the larger program operation, before committing changes.
 	
