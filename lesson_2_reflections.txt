@@ -12,5 +12,6 @@ Check you changes and double check the files included are part of the larger pro
 
 What are some situations when branches would be helpful in keeping your history organized? How would  branches help?
 	History if you made large changes and committed them or multiple types of logic to test.
-	
+How do the diagrams help you visualize the branch structure?
+They help by running down the history and color coding the separate branches once i understand how it reads.
 	
