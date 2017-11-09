@@ -14,4 +14,6 @@ What are some situations when branches would be helpful in keeping your history 
 	History if you made large changes and committed them or multiple types of logic to test.
 How do the diagrams help you visualize the branch structure?
 They help by running down the history and color coding the separate branches once i understand how it reads.
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging 2 branches together combines separate sections of code in one common branch. The diagram shows diverging code paths and the point is to see one the instance when the paths combine.
 	
