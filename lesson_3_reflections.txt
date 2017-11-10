@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work
+local? 
+A remote repository is best when working in a group setting with changes compiled in parallel branches and collaborated into
+a main.
