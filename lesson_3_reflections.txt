@@ -5,3 +5,9 @@ a main.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Sometimes changes like commits aren't monumental and would only clutter or confuse your repositories. And you want an organized repository
 outlined into thoughts. Thereby allowing easier demarcs to be created.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another.
+A fork is a clone of a repository on GitHub copied your your GitHub, a clone is a copy on either a local to local or Git to Git, a branch is a divergent program copying certain commits at a certain stage of a program creating a new commit.
+Forks - for copying a giving create to a repository
+Clones - for copy to copy
+Branch for writing or modifying within that specific program.
