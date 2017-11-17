@@ -16,3 +16,6 @@ Branch for writing or modifying within that specific program.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 So even if you're offline you will working on the last state which can be combined or merged with
 the latest once connectivity is restored.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+    I would have to use skype live conference calls, meetings, and file transfers. The live feedback of ideas would be easier, since it's real time. But the dissecting the code would be harder, since multiple people are manipulating the code, you will miss the changes which can be huge.
