@@ -19,3 +19,7 @@ the latest once connectivity is restored.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
     I would have to use skype live conference calls, meetings, and file transfers. The live feedback of ideas would be easier, since it's real time. But the dissecting the code would be harder, since multiple people are manipulating the code, you will miss the changes which can be huge.
+
+    When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+    When you have changes you want to test before adding to the main branch. The benefits is you will have the research results without
+    effecting your main program.
